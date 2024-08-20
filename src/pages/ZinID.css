@@ -1,0 +1,83 @@
+.main-card{
+    margin:15px 450px;
+     width: 650; 
+    border-radius:8;
+    display:inline-block;
+}
+
+.main{
+    text-align:center
+}
+
+.content-card{
+    width:500px;
+    margin:50px 50px ;
+    height:220px;
+    border-radius:3;
+    background-color:#F5F9FF;
+    line-height:5px;
+}
+
+.content-flex{
+    text-align:center;
+    font-weight:500;
+    font-size:13;
+    color:#222222; 
+    margin:0px 80px 
+}
+
+.main-flex{
+    margin:0px 117px ;
+     text-align:center;
+}
+.primary-btn{
+    width:500px;
+     height:50px;
+    font-weight:500;
+    margin:0px 50px ;
+     background-color:#0166FF;
+      border-radius:3;
+}
+
+.copy-btn{
+    border-color:#0166FF;
+     color:#0166FF;
+    font-weight:500;
+    height:28px;
+    background-color:#F5F9FF;
+}
+
+h1{
+    font-family:sans-serif;
+    font-weight:bolder;
+    font-size:larger;
+     color:#222222; 
+    line-height:18px;
+}
+
+h2{
+    font-family:sans-serif; 
+    font-weight:100;
+     font-size:large; 
+    color:#222222;
+     line-height:18px
+}
+
+h3{
+    font-family:sans-serif; 
+    font-weight:bolder;
+    font-size:small;
+    color:#222222;
+}
+
+h4{
+    font-family:sans-serif; 
+    font-weight:400; 
+    font-size:large; 
+    color:#0166FF
+}
+
+p{
+    font-family:sans-serif;
+     line-height:18px
+}
